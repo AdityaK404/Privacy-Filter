@@ -1,3 +1,5 @@
+Face Privacy Layer
+
 Overview
 
 Face Privacy Layer is a real-time computer vision application that detects faces from a webcam feed and automatically blurs all faces except the primary subject. The primary face is determined based on size and position relative to the center of the frame.
